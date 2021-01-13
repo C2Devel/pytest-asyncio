@@ -25,7 +25,7 @@ setup(
     packages=find_packages(),
     url="https://github.com/pytest-dev/pytest-asyncio",
     license="Apache 2.0",
-    author="Tin Tvrtković",
+    author="Tin Tvrtkovic",
     author_email="tinchester@gmail.com",
     description="Pytest support for asyncio.",
     long_description=Path(__file__).parent.joinpath("README.rst").read_text(),
