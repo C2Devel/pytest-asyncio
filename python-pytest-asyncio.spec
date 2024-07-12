@@ -6,7 +6,7 @@
 
 Name:           python3-%{pypi_name}
 Version:        0.9.0
-Release:        CROC2%{?dist}
+Release:        ROCKIT3%{?dist}
 Summary:        Pytest support for asyncio
 
 License:        ASL 2.0
